@@ -1,3 +1,5 @@
+*AURAQUIPS*
+
 QUOTE GENERATOR!
 Link --> https://siddharth774.github.io/AuraQuips
 
