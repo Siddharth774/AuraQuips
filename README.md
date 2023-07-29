@@ -1,5 +1,5 @@
 QUOTE GENERATOR!
-Link --> https://siddharth774.github.io/quote-generator/
+Link --> https://siddharth774.github.io/AuraQuips
 
 Prerequisites 
 --> https://cors-anywhere.herokuapp.com/corsdemo
